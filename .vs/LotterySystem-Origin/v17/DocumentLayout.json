@@ -1,0 +1,154 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\03.Unity\\LotterySystem-Origin\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{13DA4A9E-1D1D-1D57-3D88-3C63ABBDB28D}|Assembly-CSharp.csproj|D:\\03.Unity\\LotterySystem-Origin\\assets\\scripts\\gamemanagr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13DA4A9E-1D1D-1D57-3D88-3C63ABBDB28D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamemanagr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13DA4A9E-1D1D-1D57-3D88-3C63ABBDB28D}|Assembly-CSharp.csproj|d:\\03.unity\\lotterysystem-origin\\assets\\scripts\\titlemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13DA4A9E-1D1D-1D57-3D88-3C63ABBDB28D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\titlemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13DA4A9E-1D1D-1D57-3D88-3C63ABBDB28D}|Assembly-CSharp.csproj|D:\\03.Unity\\LotterySystem-Origin\\assets\\scripts\\statusmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13DA4A9E-1D1D-1D57-3D88-3C63ABBDB28D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\statusmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13DA4A9E-1D1D-1D57-3D88-3C63ABBDB28D}|Assembly-CSharp.csproj|D:\\03.Unity\\LotterySystem-Origin\\assets\\scripts\\lotterymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13DA4A9E-1D1D-1D57-3D88-3C63ABBDB28D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\lotterymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13DA4A9E-1D1D-1D57-3D88-3C63ABBDB28D}|Assembly-CSharp.csproj|D:\\03.Unity\\LotterySystem-Origin\\assets\\scripts\\slotmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13DA4A9E-1D1D-1D57-3D88-3C63ABBDB28D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\slotmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13DA4A9E-1D1D-1D57-3D88-3C63ABBDB28D}|Assembly-CSharp.csproj|D:\\03.Unity\\LotterySystem-Origin\\assets\\scriptableobject\\option.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13DA4A9E-1D1D-1D57-3D88-3C63ABBDB28D}|Assembly-CSharp.csproj|solutionrelative:assets\\scriptableobject\\option.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|d:\\03.unity\\lotterysystem-origin\\assets\\scriptobject\\optiondata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\scriptobject\\optiondata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TitleManager.cs",
+              "DocumentMoniker": "D:\\03.Unity\\LotterySystem-Origin\\Assets\\Scripts\\TitleManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\TitleManager.cs",
+              "ToolTip": "D:\\03.Unity\\LotterySystem-Origin\\Assets\\Scripts\\TitleManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\TitleManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T01:31:19.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Option.cs",
+              "DocumentMoniker": "D:\\03.Unity\\LotterySystem-Origin\\Assets\\ScriptableObject\\Option.cs",
+              "RelativeDocumentMoniker": "Assets\\ScriptableObject\\Option.cs",
+              "ToolTip": "D:\\03.Unity\\LotterySystem-Origin\\Assets\\ScriptableObject\\Option.cs",
+              "RelativeToolTip": "Assets\\ScriptableObject\\Option.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T00:06:36.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OptionData.cs",
+              "DocumentMoniker": "D:\\03.Unity\\LotterySystem-Origin\\Assets\\ScriptObject\\OptionData.cs",
+              "RelativeDocumentMoniker": "Assets\\ScriptObject\\OptionData.cs",
+              "ToolTip": "D:\\03.Unity\\LotterySystem-Origin\\Assets\\ScriptObject\\OptionData.cs",
+              "RelativeToolTip": "Assets\\ScriptObject\\OptionData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T23:48:06.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameManagr.cs",
+              "DocumentMoniker": "D:\\03.Unity\\LotterySystem-Origin\\Assets\\Scripts\\GameManagr.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameManagr.cs",
+              "ToolTip": "D:\\03.Unity\\LotterySystem-Origin\\Assets\\Scripts\\GameManagr.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameManagr.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T21:54:25.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StatusManager.cs",
+              "DocumentMoniker": "D:\\03.Unity\\LotterySystem-Origin\\Assets\\Scripts\\StatusManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\StatusManager.cs",
+              "ToolTip": "D:\\03.Unity\\LotterySystem-Origin\\Assets\\Scripts\\StatusManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\StatusManager.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAADQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T21:50:21.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LotteryManager.cs",
+              "DocumentMoniker": "D:\\03.Unity\\LotterySystem-Origin\\Assets\\Scripts\\LotteryManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\LotteryManager.cs",
+              "ToolTip": "D:\\03.Unity\\LotterySystem-Origin\\Assets\\Scripts\\LotteryManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\LotteryManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T21:49:15.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SlotManager.cs",
+              "DocumentMoniker": "D:\\03.Unity\\LotterySystem-Origin\\Assets\\Scripts\\SlotManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SlotManager.cs",
+              "ToolTip": "D:\\03.Unity\\LotterySystem-Origin\\Assets\\Scripts\\SlotManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SlotManager.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAEMAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T21:48:42.826Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

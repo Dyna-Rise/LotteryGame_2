@@ -1,0 +1,120 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\03.Unity\\LotterySystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6CB15684-1E73-949B-9473-1FC1300925ED}|Assembly-CSharp.csproj|d:\\03.unity\\lotterysystem\\assets\\scripts\\optioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CB15684-1E73-949B-9473-1FC1300925ED}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\optioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CB15684-1E73-949B-9473-1FC1300925ED}|Assembly-CSharp.csproj|D:\\03.Unity\\LotterySystem\\assets\\scripts\\option.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CB15684-1E73-949B-9473-1FC1300925ED}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\option.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CB15684-1E73-949B-9473-1FC1300925ED}|Assembly-CSharp.csproj|D:\\03.Unity\\LotterySystem\\assets\\scripts\\optiondata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CB15684-1E73-949B-9473-1FC1300925ED}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\optiondata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CB15684-1E73-949B-9473-1FC1300925ED}|Assembly-CSharp.csproj|D:\\03.Unity\\LotterySystem\\assets\\scripts\\slotmanagerorigin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CB15684-1E73-949B-9473-1FC1300925ED}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\slotmanagerorigin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CB15684-1E73-949B-9473-1FC1300925ED}|Assembly-CSharp.csproj|D:\\03.Unity\\LotterySystem\\assets\\scripts\\slotmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CB15684-1E73-949B-9473-1FC1300925ED}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\slotmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OptionController.cs",
+              "DocumentMoniker": "D:\\03.Unity\\LotterySystem\\Assets\\Scripts\\OptionController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\OptionController.cs",
+              "ToolTip": "D:\\03.Unity\\LotterySystem\\Assets\\Scripts\\OptionController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\OptionController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T13:20:50.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SlotManagerOrigin.cs",
+              "DocumentMoniker": "D:\\03.Unity\\LotterySystem\\Assets\\Scripts\\SlotManagerOrigin.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SlotManagerOrigin.cs",
+              "ToolTip": "D:\\03.Unity\\LotterySystem\\Assets\\Scripts\\SlotManagerOrigin.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SlotManagerOrigin.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T12:01:56.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OptionData.cs",
+              "DocumentMoniker": "D:\\03.Unity\\LotterySystem\\Assets\\Scripts\\OptionData.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\OptionData.cs",
+              "ToolTip": "D:\\03.Unity\\LotterySystem\\Assets\\Scripts\\OptionData.cs",
+              "RelativeToolTip": "Assets\\Scripts\\OptionData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T09:38:32.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Option.cs",
+              "DocumentMoniker": "D:\\03.Unity\\LotterySystem\\Assets\\Scripts\\Option.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Option.cs",
+              "ToolTip": "D:\\03.Unity\\LotterySystem\\Assets\\Scripts\\Option.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Option.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T09:35:04.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SlotManager.cs",
+              "DocumentMoniker": "D:\\03.Unity\\LotterySystem\\Assets\\Scripts\\SlotManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SlotManager.cs",
+              "ToolTip": "D:\\03.Unity\\LotterySystem\\Assets\\Scripts\\SlotManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SlotManager.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAAABIAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T06:03:27.757Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
