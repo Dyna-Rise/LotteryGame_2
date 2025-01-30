@@ -6,47 +6,7 @@ using TMPro;
 
 public class SlotManager : MonoBehaviour
 {
-
-    public GameObject[] reels;
-    public float spinSpeed = 1000.0f;
-    public float stopDelay = 0.5f;
-    public int localResultIndex = 0;
-    bool[] isPersonSpining = { false, false, false };
-    public OptionData optionData;
-
-
-    private void Update()
-    {
-        if (GameManager.isSpinning)
-        {
-            for (int i = 0; i < reels.Length; i++) 
-            {
-                if (isPersonSpining[i])
-                {
-                    reels[i].transform.Rotate(-spinSpeed * Time.deltaTime, 0, 0);
-                }
-            }
-        }
-
-    }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+ 
 
 
     //StartSlotメソッドまで作成できたらコメントアウトを解除
