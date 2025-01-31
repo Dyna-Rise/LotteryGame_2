@@ -597,6 +597,22 @@ PrefabInstance:
       propertyPath: m_Name
       value: TitleCanvas
       objectReference: {fileID: 0}
+    - target: {fileID: 4763188851346267205, guid: ef0d4c8b9a2c4fc4abcca885036e2109, type: 3}
+      propertyPath: reels.Array.size
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 4763188851346267205, guid: ef0d4c8b9a2c4fc4abcca885036e2109, type: 3}
+      propertyPath: reels.Array.data[0]
+      value: 
+      objectReference: {fileID: 727249987}
+    - target: {fileID: 4763188851346267205, guid: ef0d4c8b9a2c4fc4abcca885036e2109, type: 3}
+      propertyPath: reels.Array.data[1]
+      value: 
+      objectReference: {fileID: 1743316835}
+    - target: {fileID: 4763188851346267205, guid: ef0d4c8b9a2c4fc4abcca885036e2109, type: 3}
+      propertyPath: reels.Array.data[2]
+      value: 
+      objectReference: {fileID: 1160957748}
     - target: {fileID: 4899529462216393588, guid: ef0d4c8b9a2c4fc4abcca885036e2109, type: 3}
       propertyPath: reelSpeed
       value: 50
