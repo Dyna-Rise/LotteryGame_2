@@ -8,6 +8,7 @@ using Unity.VisualScripting;
 public class GameManager : MonoBehaviour
 {
     public static bool isSpinning; // リールが回転中かどうか
+
     public static bool isLottery; //抽選計算中
     public static bool isResult; //結果が出た状態か
     public static int resultIndex; // 全リールの共通結果インデックス

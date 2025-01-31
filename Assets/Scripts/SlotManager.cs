@@ -52,12 +52,12 @@ public class SlotManager : MonoBehaviour
      IEnumerator StopReelsSequentially()
     {
         yield return new WaitForSeconds(3.0f);
-        //yield return new WaitUntil(() => GameManager.isResult);
+        yield return new WaitUntil(() => GameManager.isResult);
 
         for (int i = 0; i < reels.Length; i++)
         {
-            //float targetAngle = GameManager.resultIndex * (360f / optionData.option.prizeName.Length + 1); // 対応する角度を計算
-            float targetAngle = localResultIndex * (360f / optionData.option.prizeName.Length + 1); //仮値
+            float targetAngle = GameManager.resultIndex * (360f / optionData.option.prizeName.Length + 1); // 対応する角度を計算
+            //float targetAngle = localResultIndex * (360f / optionData.option.prizeName.Length + 1); //仮値
             targetAngle -= 360.0f;
             isPersonSpinning[i] = false;
 
@@ -70,8 +70,8 @@ public class SlotManager : MonoBehaviour
         GameManager.isLottery = false;
 
         // resultに結果を格納
-        //GameManager.result = optionData.option.prizeName[GameManager.resultIndex];
-        GameManager.result = optionData.option.prizeName[localResultIndex]; //仮値
+        GameManager.result = optionData.option.prizeName[GameManager.resultIndex];
+        //GameManager.result = optionData.option.prizeName[localResultIndex]; //仮値
 
     }
 
