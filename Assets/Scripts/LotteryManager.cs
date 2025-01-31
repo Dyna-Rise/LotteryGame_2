@@ -15,7 +15,7 @@ public class LotteryManager : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if (GameManager.isSpinnig == true)
+        if (GameManager.isSpinning == true)
         {
             if (GameManager.isLottery == false)
             {
@@ -30,7 +30,7 @@ public class LotteryManager : MonoBehaviour
     public void StartLottery()
     {
         GameManager.resultIndex = Random.Range(0, optionData.option.prizeName.Length);
-        Debug.Log("’Š‘I”Ô†Œ‹‰Ê : " + GameManager.resultIndex);
+        Debug.Log("æŠ½é¸ç•ªå·çµæœ : " + GameManager.resultIndex);
         GameManager.isResult = true;
     }
 
